@@ -19,5 +19,3 @@ The certificates are organized into the following categories:
 
 4. **Other Professional Development**  
    - Additional certifications that highlight diverse skills and interests.  
-
-## 📁 Repository Structure  
